@@ -1,0 +1,14 @@
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\bin\Debug\net6.0\ConsoleJankines.exe
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\bin\Debug\net6.0\ConsoleJankines.deps.json
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\bin\Debug\net6.0\ConsoleJankines.runtimeconfig.json
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\bin\Debug\net6.0\ConsoleJankines.dll
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\bin\Debug\net6.0\ConsoleJankines.pdb
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.AssemblyInfoInputs.cache
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.AssemblyInfo.cs
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.csproj.CoreCompileInputs.cache
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.dll
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\refint\ConsoleJankines.dll
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.pdb
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.genruntimeconfig.cache
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ref\ConsoleJankines.dll
