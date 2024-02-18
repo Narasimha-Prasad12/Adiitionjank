@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleJankines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a361013a9f97852d2dbe9bbfc98edfe7c1ed4380")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleJankines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleJankines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,6 @@
 
 //}
 Console.WriteLine("Adding");
-int num1 = 1;
-int num2 = 3;
+int num1 = int.Parse(Console.ReadLine());
+int num2 = int.Parse(Console.ReadLine()); ;
 Console.WriteLine("{0} + {1} = {2}",num1,num2,(num1+num2));

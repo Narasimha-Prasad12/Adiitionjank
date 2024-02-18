@@ -12,3 +12,4 @@ D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ref
 D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.pdb
 D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.genruntimeconfig.cache
 D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ref\ConsoleJankines.dll
+D:\Mphasis\VS2022\C#\phase4\ConsoleJankines\ConsoleJankines\obj\Debug\net6.0\ConsoleJankines.sourcelink.json
